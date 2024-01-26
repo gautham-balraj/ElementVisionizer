@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 8
+names: ['button', 'field', 'heading', 'iframe', 'image', 'label', 'link', 'text']
+
+roboflow:
+  workspace: jb-ytltt
+  project: webpage-elements
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/jb-ytltt/webpage-elements/dataset/1
