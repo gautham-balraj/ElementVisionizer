@@ -14,14 +14,14 @@ The trained model is deployed and accessible through [ElementVisionizer on Robof
 
 ### Dataset
 The model was trained on a dataset containing images annotated with the following labels:
-- 'button'
-- 'field'
-- 'heading'
-- 'iframe'
-- 'image'
-- 'label'
-- 'link'
-- 'text'
+- button
+- field
+- heading
+- iframe
+- image
+- label
+- link
+- text
 
 ### Training Configuration
 - YOLOv8 version: YOLOv8L (larger version)
