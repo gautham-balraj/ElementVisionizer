@@ -27,7 +27,7 @@ The model was trained on a dataset containing images annotated with the followin
 - YOLOv8 version: YOLOv8L (larger version)
 - Epochs: 130
 - imgsz: 640
-- 
+  
 ### Training Images
 ![Screenshot 2024-01-26 152628](https://github.com/gautham-balraj/ElementVisionizer/assets/121476362/41455955-fb19-499b-9848-87d86baffe1c)
 
