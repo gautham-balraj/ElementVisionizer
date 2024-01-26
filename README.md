@@ -8,6 +8,7 @@ This repository contains the code and model for a web element object detection s
 ## Model Deployment
 
 The trained model is deployed and accessible through [ElementVisionizer on Roboflow Universe](https://universe.roboflow.com/web-element-object-detection/elementvisionizer/model/348). You can use this link to visualize and test the model's performance.
+![Screenshot 2024-01-26 153219](https://github.com/gautham-balraj/ElementVisionizer/assets/121476362/13300bc8-b34e-4ee6-87a3-8418fc5c749c)
 
 ## Model Training
 
